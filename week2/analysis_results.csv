@@ -1,0 +1,111 @@
+Metric_Category,Metric_Name,Value
+Daily Statistics (GWh),Consumption_Mean,1338.68
+Daily Statistics (GWh),Consumption_Std,165.78
+Daily Statistics (GWh),Consumption_Min,842.4
+Daily Statistics (GWh),Consumption_Max,1709.57
+Daily Statistics (GWh),Consumption_Median,1367.12
+Daily Statistics (GWh),Wind_Mean,164.81
+Daily Statistics (GWh),Wind_Std,143.69
+Daily Statistics (GWh),Wind_Min,5.76
+Daily Statistics (GWh),Wind_Max,826.28
+Daily Statistics (GWh),Wind_Median,119.1
+Daily Statistics (GWh),Solar_Mean,89.26
+Daily Statistics (GWh),Solar_Std,58.55
+Daily Statistics (GWh),Solar_Min,1.97
+Daily Statistics (GWh),Solar_Max,241.58
+Daily Statistics (GWh),Solar_Median,86.41
+Daily Statistics (GWh),Wind+Solar_Mean,272.66
+Daily Statistics (GWh),Wind+Solar_Std,146.32
+Daily Statistics (GWh),Wind+Solar_Min,21.48
+Daily Statistics (GWh),Wind+Solar_Max,851.56
+Daily Statistics (GWh),Wind+Solar_Median,240.99
+Annual Energy Total (TWh),Consumption_TWh_2006,489.07
+Annual Energy Total (TWh),Consumption_TWh_2007,496.63
+Annual Energy Total (TWh),Consumption_TWh_2008,495.57
+Annual Energy Total (TWh),Consumption_TWh_2009,459.74
+Annual Energy Total (TWh),Consumption_TWh_2010,488.59
+Annual Energy Total (TWh),Wind_TWh_2010,35.91
+Annual Energy Total (TWh),Consumption_TWh_2011,484.81
+Annual Energy Total (TWh),Wind_TWh_2011,44.03
+Annual Energy Total (TWh),Consumption_TWh_2012,469.57
+Annual Energy Total (TWh),Wind_TWh_2012,45.86
+Annual Energy Total (TWh),Solar_TWh_2012,27.89
+Annual Energy Total (TWh),WindSolar_TWh_2012,73.75
+Renewable Share (%),Renewable_Share_Pct_2012,15.71
+Annual Energy Total (TWh),Consumption_TWh_2013,463.34
+Annual Energy Total (TWh),Wind_TWh_2013,47.2
+Annual Energy Total (TWh),Solar_TWh_2013,29.56
+Annual Energy Total (TWh),WindSolar_TWh_2013,76.7
+Renewable Share (%),Renewable_Share_Pct_2013,16.55
+Annual Energy Total (TWh),Consumption_TWh_2014,504.16
+Annual Energy Total (TWh),Wind_TWh_2014,51.11
+Annual Energy Total (TWh),Solar_TWh_2014,32.5
+Annual Energy Total (TWh),WindSolar_TWh_2014,83.37
+Renewable Share (%),Renewable_Share_Pct_2014,16.54
+Annual Energy Total (TWh),Consumption_TWh_2015,505.26
+Annual Energy Total (TWh),Wind_TWh_2015,77.47
+Annual Energy Total (TWh),Solar_TWh_2015,34.91
+Annual Energy Total (TWh),WindSolar_TWh_2015,112.38
+Renewable Share (%),Renewable_Share_Pct_2015,22.24
+Annual Energy Total (TWh),Consumption_TWh_2016,505.93
+Annual Energy Total (TWh),Wind_TWh_2016,77.01
+Annual Energy Total (TWh),Solar_TWh_2016,34.56
+Annual Energy Total (TWh),WindSolar_TWh_2016,111.57
+Renewable Share (%),Renewable_Share_Pct_2016,22.05
+Annual Energy Total (TWh),Consumption_TWh_2017,504.74
+Annual Energy Total (TWh),Wind_TWh_2017,102.67
+Annual Energy Total (TWh),Solar_TWh_2017,35.88
+Annual Energy Total (TWh),WindSolar_TWh_2017,138.55
+Renewable Share (%),Renewable_Share_Pct_2017,27.45
+Growth Analysis,Renewable_TWh_Growth_2012_2017_Pct,87.86
+Growth Analysis,Renewable_CAGR_2012_2017_Pct,13.44
+Seasonal Means (GWh/day),Consumption_Mean_Autumn,1363.51
+Seasonal Means (GWh/day),Wind_Mean_Autumn,166.39
+Seasonal Means (GWh/day),Solar_Mean_Autumn,65.11
+Seasonal Means (GWh/day),Consumption_Mean_Spring,1313.85
+Seasonal Means (GWh/day),Wind_Mean_Spring,150.67
+Seasonal Means (GWh/day),Solar_Mean_Spring,116.08
+Seasonal Means (GWh/day),Consumption_Mean_Summer,1259.92
+Seasonal Means (GWh/day),Wind_Mean_Summer,112.15
+Seasonal Means (GWh/day),Solar_Mean_Summer,147.31
+Seasonal Means (GWh/day),Consumption_Mean_Winter,1419.22
+Seasonal Means (GWh/day),Wind_Mean_Winter,231.4
+Seasonal Means (GWh/day),Solar_Mean_Winter,27.36
+Correlation,Corr_Consumption_Wind,0.1368
+Correlation,Corr_Consumption_Solar,-0.2789
+Correlation,Corr_Consumption_Wind+Solar,0.0276
+Correlation,Corr_Consumption_Month,-0.0739
+Correlation,Corr_Consumption_Is_Weekend,-0.7134
+Correlation,Corr_Wind_Consumption,0.1368
+Correlation,Corr_Wind_Solar,-0.3088
+Correlation,Corr_Wind_Wind+Solar,0.9247
+Correlation,Corr_Wind_Month,0.0461
+Correlation,Corr_Wind_Is_Weekend,0.0256
+Correlation,Corr_Solar_Consumption,-0.2789
+Correlation,Corr_Solar_Wind,-0.3088
+Correlation,Corr_Solar_Wind+Solar,0.0764
+Correlation,Corr_Solar_Month,-0.0842
+Correlation,Corr_Solar_Is_Weekend,-0.0101
+Correlation,Corr_Wind+Solar_Consumption,0.0276
+Correlation,Corr_Wind+Solar_Wind,0.9247
+Correlation,Corr_Wind+Solar_Solar,0.0764
+Correlation,Corr_Wind+Solar_Month,0.0097
+Correlation,Corr_Wind+Solar_Is_Weekend,0.0269
+Correlation,Corr_Month_Consumption,-0.0739
+Correlation,Corr_Month_Wind,0.0461
+Correlation,Corr_Month_Solar,-0.0842
+Correlation,Corr_Month_Wind+Solar,0.0097
+Correlation,Corr_Month_Is_Weekend,0.0004
+Correlation,Corr_Is_Weekend_Consumption,-0.7134
+Correlation,Corr_Is_Weekend_Wind,0.0256
+Correlation,Corr_Is_Weekend_Solar,-0.0101
+Correlation,Corr_Is_Weekend_Wind+Solar,0.0269
+Correlation,Corr_Is_Weekend_Month,0.0004
+Extremes,Max_Consumption_GWh,1709.57
+Extremes,Max_Consumption_Date,2010-12-01
+Extremes,Min_Consumption_GWh,842.4
+Extremes,Min_Consumption_Date,2009-04-12
+Extremes,Max_Wind_GWh,826.28
+Extremes,Max_Wind_Date,2017-02-22
+Extremes,Max_Solar_GWh,241.58
+Extremes,Max_Solar_Date,2017-05-27
